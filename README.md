@@ -1,11 +1,11 @@
-学习制作Blog
+个人Blog！
 
 
 
 
 ## 致谢
 
-1. 这个模板是从这里   [qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)      fork 的, 感谢这个作者。 
+1. 这个模板是从这里   [qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)      fork过来 的, 感谢这位作者。 
 
 ## License
 
